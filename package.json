@@ -11,10 +11,6 @@
     "precommit": "pretty-quick --staged"
   },
   "peerDependencies": {},
-  "devDependencies": {
-    "prettier": "1.18.2",
-    "react-scripts": "3.0.1"
-  },
   "dependencies": {
     "ajv": "^6.10.2",
     "connected-react-router": "6.5.2",
@@ -32,6 +28,10 @@
     "sanitize.css": "11.0.0",
     "serve": "10.1.2",
     "typescript": "^3.6.3"
+  },
+  "devDependencies": {
+    "prettier": "1.18.2",
+    "react-scripts": "^3.1.1"
   },
   "browserslist": [
     ">0.2%",
